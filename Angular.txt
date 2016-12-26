@@ -1,0 +1,14 @@
+Angular Material Beta Release, New Flex-Layout library
+We're sneaking in a little holiday gift at the end of the year: two new beta releases for developers to try out with the latest version of Angular.
+In March, we gave you a first preview of the new Angular Material components. Today's beta release of @angular/material includes 22 UI components written for the latest Angular: button, button-toggle, card-list, chips, checkbox, dialog, grid-list, icon, input, menu, progress-bar, progress-spinner, radio-button, select, sidenav, slide-toggle, slider, snackbar, textarea, toolbar, and tooltip. It also provides support for accessibility, custom themes, and RTL text.  For documentation and examples, see material.angular.io.
+
+Also out in beta today, the new @angular/flex-layout package is a general-purpose flex-based layout library for use in any Angular application later than version 2.4. It provides a responsive engine and API to easily define how UI layouts should update as viewport sizes change with orientation across different display devices. The HTML API makes it trivial to quickly arrange (and auto-resize) web page component layouts. In Angular 1.x, layout tools were included as part of Angular Material. With flex-layout, we have made layout a standalone library, decoupled from the UI components. Learn more about the flex-layout beta here. 
+
+Whether you're building a new app, or upgrading from a legacy Angular 1.x app that needs Layout and Angular Material APIs, these components will help you to quickly build a beautiful and performant UI consistent with Google's Material Design spec.
+What does beta mean?
+We've built all of the core UI components that most applications will need. Start using these libraries, and give us feedback on GitHub. 
+
+We don’t plan to make any large API changes before exiting beta, however we’ll make changes based on feedback we receive during the beta process.
+What's still in the works?
+For Angular Material, developers can expect other advanced components (e.g. data-table, date-picker), and typography support. Both libraries will see ongoing bug fixes and feature improvements. 
+For users on Angular Material 1.x, a new release is expected in early 2017 with bug fixes and security improvements.
